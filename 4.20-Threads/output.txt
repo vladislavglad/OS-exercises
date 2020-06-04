@@ -1,0 +1,59 @@
+Thread 13 is running; pid 300 is allocated. 
+
+Thread 22 is running; pid 309 is allocated. 
+
+Thread 14 is running; pid 301 is allocated. 
+
+Thread 27 is running; pid 314 is allocated. 
+
+Thread 20 is running; pid 307 is allocated. 
+
+Thread 18 is running; pid 305 is allocated. 
+
+Thread 19 is running; pid 306 is allocated. 
+
+Thread 17 is running; pid 304 is allocated. 
+
+Thread 16 is running; pid 303 is allocated. 
+
+Thread 15 is running; pid 302 is allocated. 
+
+Thread 26 is running; pid 313 is allocated. 
+
+Thread 25 is running; pid 312 is allocated. 
+
+Thread 24 is running; pid 311 is allocated. 
+
+Thread 23 is running; pid 310 is allocated. 
+
+Thread 21 is running; pid 308 is allocated. 
+
+Thread 27 has returned after 792 miliseconds of sleep and released pid 314
+
+Thread 22 has returned after 809 miliseconds of sleep and released pid 309
+
+Thread 23 has returned after 1423 miliseconds of sleep and released pid 310
+
+Thread 19 has returned after 2922 miliseconds of sleep and released pid 306
+
+Thread 17 has returned after 2958 miliseconds of sleep and released pid 304
+
+Thread 20 has returned after 3719 miliseconds of sleep and released pid 307
+
+Thread 14 has returned after 3735 miliseconds of sleep and released pid 301
+
+Thread 25 has returned after 6372 miliseconds of sleep and released pid 312
+
+Thread 21 has returned after 7247 miliseconds of sleep and released pid 308
+
+Thread 15 has returned after 7669 miliseconds of sleep and released pid 302
+
+Thread 26 has returned after 8466 miliseconds of sleep and released pid 313
+
+Thread 13 has returned after 8916 miliseconds of sleep and released pid 300
+
+Thread 24 has returned after 9103 miliseconds of sleep and released pid 311
+
+Thread 18 has returned after 9254 miliseconds of sleep and released pid 305
+
+Thread 16 has returned after 9563 miliseconds of sleep and released pid 303

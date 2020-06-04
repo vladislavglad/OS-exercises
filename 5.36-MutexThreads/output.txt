@@ -1,0 +1,89 @@
+'B' has acquired lock and received pid #3320.
+
+'B' has released lock...
+
+'A' has acquired lock and received pid #3321.
+
+'A' has released lock...
+
+'D' has acquired lock and received pid #3322.
+
+'D' has released lock...
+
+'F' has acquired lock and received pid #3323.
+
+'F' has released lock...
+
+'E' has acquired lock and received pid #3324.
+
+'E' has released lock...
+
+'G' has acquired lock and received pid #3325.
+
+'G' has released lock...
+
+'C' has acquired lock and received pid #3326.
+
+'C' has released lock...
+
+'H' has acquired lock and received pid #3327.
+
+'H' has released lock...
+
+'I' has acquired lock and received pid #3328.
+
+'I' has released lock...
+
+'K' has acquired lock and received pid #3329.
+
+'K' has released lock...
+
+'M' has acquired lock and received pid #3330.
+
+'M' has released lock...
+
+'L' has acquired lock and received pid #3331.
+
+'L' has released lock...
+
+'J' has acquired lock and received pid #3332.
+
+'J' has released lock...
+
+'N' has acquired lock and received pid #3333.
+
+'N' has released lock...
+
+'O' has acquired lock and received pid #3334.
+
+'O' has released lock...
+
+'H' has released pid #3327 after 184 milliseconds.
+
+'E' has released pid #3324 after 548 milliseconds.
+
+'F' has released pid #3323 after 616 milliseconds.
+
+'M' has released pid #3330 after 995 milliseconds.
+
+'L' has released pid #3331 after 2075 milliseconds.
+
+'G' has released pid #3325 after 2313 milliseconds.
+
+'K' has released pid #3329 after 2988 milliseconds.
+
+'I' has released pid #3328 after 4009 milliseconds.
+
+'B' has released pid #3320 after 4916 milliseconds.
+
+'D' has released pid #3322 after 5343 milliseconds.
+
+'J' has released pid #3332 after 7413 milliseconds.
+
+'N' has released pid #3333 after 7410 milliseconds.
+
+'O' has released pid #3334 after 8519 milliseconds.
+
+'C' has released pid #3326 after 8626 milliseconds.
+
+'A' has released pid #3321 after 9938 milliseconds.

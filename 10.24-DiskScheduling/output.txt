@@ -1,0 +1,41 @@
+// Compilation.
+vladg@X510UAR:~/Documents/disc-sched$ g++ -o disk_scheduling algs.cpp
+
+
+// Invocation without arguments.
+vladg@X510UAR:~/Documents/disc-sched$ ./disk_scheduling 
+Invalid number of command line arguments:
+        Provide at least 1 numerical argument for the initial position of the disk head.
+        Example usage: ./disk_scheduling 3320
+
+
+// Out of bounds arguments.
+vladg@X510UAR:~/Documents/disc-sched$ ./disk_scheduling 5000
+Invalid initial position of the disk head:
+        The initial position you provided is out of bounds.
+        Please provide a valid position in the range 0-4999
+
+vladg@X510UAR:~/Documents/disc-sched$ ./disk_scheduling -123
+Invalid initial position of the disk head:
+        The initial position you provided is out of bounds.
+        Please provide a valid position in the range 0-4999
+
+
+// Invocation with valid arguments.
+vladg@X510UAR:~/Documents/disc-sched$ ./disk_scheduling 53
+Your startingIndex is: 53
+Total head movements FCFS: 1668232
+Total head movements C-SCAN: 9991
+Total head movements C-LOOK: 9967
+
+vladg@X510UAR:~/Documents/disc-sched$ ./disk_scheduling 3320
+Your startingIndex is: 3320
+Total head movements FCFS: 1767802
+Total head movements C-SCAN: 9990
+Total head movements C-LOOK: 9966
+
+vladg@X510UAR:~/Documents/disc-sched$ ./disk_scheduling 4900
+Your startingIndex is: 4900
+Total head movements FCFS: 1628033
+Total head movements C-SCAN: 9986
+Total head movements C-LOOK: 9890

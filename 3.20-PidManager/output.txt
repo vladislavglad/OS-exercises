@@ -1,0 +1,14 @@
+Status of allocation: 1
+
+Allocating first 10 pids: 300 301 302 303 304 305 306 307 308 309 
+
+Simulating further allocation: 4997 4998 4999 5000 310 311 312 313 314 315 
+
+Releasing pids: 
+                300 released
+                302 released
+                304 released
+                306 released
+                308 released
+
+Taking just released pids (and beyond): 300 302 304 306 308 316 317 318 319 320
